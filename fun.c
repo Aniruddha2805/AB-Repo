@@ -1,8 +1,7 @@
 Main(){
-<<<<<<< HEAD
 Fun(){
-	//initialCode
-}
-}
-
+	Fun3(){
+		//initialCode
+		//}
+		//}
 
