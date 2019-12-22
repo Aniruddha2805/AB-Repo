@@ -1,5 +1,5 @@
 Main(){
-	Fun1(){
+	Fun3(){
 		//initialCode
 		//}
 		//}
