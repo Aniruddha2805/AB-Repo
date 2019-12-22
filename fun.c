@@ -1,7 +1,8 @@
 Main(){
+<<<<<<< HEAD
 Fun(){
 	//initialCode
 }
 }
 
-	
+
